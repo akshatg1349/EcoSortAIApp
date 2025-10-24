@@ -31,4 +31,8 @@ Modern architecture: Built with a clean, modular SwiftUI structure using MVVM an
    cd EcoSortAIApp
 2. In ChatService.swift, please put your OpenAI API key in 'apiKey' variable. This is required for AI Chat Assistant functionality to work.
 3. Build and run the app in Xcode on a physical device (recommended for camera access)
+
+License
+© 2025 Akshat Gupta. All rights reserved.
+This code is for demonstration purposes only and may not be copied, modified, or distributed without permission.
    ```
